@@ -1,5 +1,8 @@
 
-print("1.mdas\n2.detecting a prime number\n3.solve for a varible\n4.factoring square roots")
+print("1.mdas")
+print("2.detecting a prime number")
+print("3.solve for a varible")
+print("4.factoring square roots")
 print("5.proportions\n6.converting decimal to fractions and percents ")
 print("7.converting fractions to decimals and percents")
 print("8.converting percents to decimals and fractions")
